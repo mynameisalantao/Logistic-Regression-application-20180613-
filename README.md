@@ -47,7 +47,7 @@ for k=1:1:400<br />
      hold on;<br />
      
  end<br />
- ![alt text]([Imgur](https://i.imgur.com/UJ0tfYu.png))
+ [Imgur](https://i.imgur.com/UJ0tfYu.png)
  
  最後可以檢查分界線在以2個feature為軸的平面上<br />
  for i=0:0.01:30<br />
