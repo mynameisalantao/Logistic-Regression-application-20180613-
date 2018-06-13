@@ -47,6 +47,7 @@ for k=1:1:400<br />
      hold on;<br />
      
  end<br />
+ ![Alt text](https://imgur.com/UJ0tfYu "參數w與b的sigma曲線")
  
  最後可以檢查分界線在以2個feature為軸的平面上<br />
  for i=0:0.01:30<br />
