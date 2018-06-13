@@ -37,10 +37,10 @@ for k=1:1:400<br />
          w(j,1)=w(j,1)-learning_rate1*sigma1;   <br />
          b=b-learning_rate2*sigma2;<br />
          
-     end<br />
+ end<br />
      
-     subplot(2,1,1);<br /><br />
-     plot(k,sigma1,'r+-.');<br />
+ subplot(2,1,1);<br /><br />
+ plot(k,sigma1,'r+-.');<br />
      hold on;<br />
      subplot(2,1,2);<br />
      plot(k,sigma2,'r+-.');<br />
