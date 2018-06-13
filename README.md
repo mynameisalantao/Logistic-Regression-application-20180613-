@@ -47,7 +47,7 @@ for k=1:1:400<br />
      hold on;<br />
      
  end<br />
- ![Alt text](C:\Users\USER\Desktop\matlab(logistic_regression)20180613-1 "參數w與b的sigma曲線")
+ ![alt text](https://imgur.com/UJ0tfYu)
  
  最後可以檢查分界線在以2個feature為軸的平面上<br />
  for i=0:0.01:30<br />
