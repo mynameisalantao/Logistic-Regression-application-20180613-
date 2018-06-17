@@ -1,6 +1,6 @@
 機器學習Logistic Regression應用(20180613)
 ==============================================
-程式語言:使用matlab 撰寫:Alan Tao
+程式語言:使用matlab ，撰寫:Alan Tao<br />
 因為這有許多矩陣運算，用c++不太方便，加上希望能夠看到圖，能顯現出結果，所以改用matlab<br />
 首先假設training data<br />
 
